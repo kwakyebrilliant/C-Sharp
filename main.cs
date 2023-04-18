@@ -4,7 +4,8 @@ namespace HelloWorld {
     class Program
     {
         public static void Main(string[] args){
-            console.WriteLine("Hello Viewers")
+            console.WriteLine("Hello Viewers");
+            console.Read();
         }
     }
 }
