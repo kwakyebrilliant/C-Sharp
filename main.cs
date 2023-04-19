@@ -4,8 +4,8 @@ namespace HelloWorld {
     class Program
     {
         public static void Main(string[] args){
-            Console.WriteLine("Hello Viewers");
-            Console.Read();
+           int variable = 12;
+           int variable = 13;
         }
     }
 }
