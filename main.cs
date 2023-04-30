@@ -5,7 +5,8 @@ namespace HelloWorld {
     {
         public static void Main(string[] args){
             //Data type variable = Data
-            int number = 
+            int number = 16;
+            
            
         }
     }
