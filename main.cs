@@ -5,7 +5,7 @@ namespace HelloWorld {
     {
         public static void Main(string[] args){
             //Data type variable = Data
-            float num = 12.6f
+            double num = 12.6D
             Console.WriteLine(num)
         }
     }
