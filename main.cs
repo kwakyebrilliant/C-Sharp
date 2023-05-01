@@ -5,7 +5,7 @@ namespace HelloWorld {
     {
         public static void Main(string[] args){
             //Data type variable = Data
-            char ch = 'A'
+            char ch = 'A';
             Console.WriteLine(ch)
         }
     }
