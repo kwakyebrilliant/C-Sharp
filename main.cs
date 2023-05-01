@@ -5,7 +5,7 @@ namespace HelloWorld {
     {
         public static void Main(string[] args){
             //Data type variable = Data
-            int val = 2,147,483,647
+            long num = 12
             Console.WriteLine(val)
         }
     }
