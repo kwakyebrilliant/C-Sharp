@@ -6,6 +6,7 @@ namespace HelloWorld {
         public static void Main(string[] args){
             //Data type variable = Data
             bool isRunning = true;
+            Console.WriteLine(isRunning)
         }
     }
 }
