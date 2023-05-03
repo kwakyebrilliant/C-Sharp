@@ -1,12 +1,9 @@
 using System;
-
-namespace HelloWorld {
+using System.Linq;
     class Program
     {
-        public static void Main(string[] args){
-            //Data type variable = Data
-            string concat = "Brilliant " + "Amoah"
-            Console.WriteLine(concat)
+        static void Main() {
+            int val = 23.4f
+            Console.WriteLine(val)
         }
     }
-}
