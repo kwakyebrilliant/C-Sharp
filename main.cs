@@ -9,6 +9,8 @@ namespace HelloWorld {
             int a = 12;
             int b = 8;
 
+            Console.WriteLine(a==b);
+
         }
     }
 }
