@@ -1,9 +1,9 @@
 using System;
 using System.Linq;
+namespace HelloWorld {
     class Program
     {
-        static void Main() {
-            int val = (int) 23.4f;
-            Console.WriteLine(val); 
+        public static void Main(string[] args){
+            
         }
     }
