@@ -7,7 +7,7 @@ namespace HelloWorld {
             int a = 8;
             int b = 2;
 
-
+            Console.WriteLine(a+b);
         }
     }
 }
