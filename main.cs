@@ -5,7 +5,9 @@ namespace HelloWorld {
     {
         public static void Main(string[] args){
             //Relational operators
-            
+
+            int a = 12;
+
         }
     }
 }
