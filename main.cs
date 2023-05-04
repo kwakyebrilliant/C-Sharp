@@ -4,12 +4,8 @@ namespace HelloWorld {
     class Program
     {
         public static void Main(string[] args){
-            int a = 8;
-            int b = 2;
-
-            int c = --b;
-
-            Console.WriteLine(c)
+            //Relational operators
+            
         }
     }
 }
