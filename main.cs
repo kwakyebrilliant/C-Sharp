@@ -4,6 +4,6 @@ using System.Linq;
     {
         static void Main() {
             int val = (int) 23.4f;
-            Console.WriteLine(val);
+            Console.WriteLine(val); 
         }
     }
