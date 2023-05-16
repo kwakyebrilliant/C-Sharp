@@ -11,7 +11,8 @@ namespace HelloWorld {
             switch (ch)
             {
                 
-                default:
+                case 'A':
+                    Console.Writeline('Very good grade');
             }
 
         }
