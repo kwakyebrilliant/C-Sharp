@@ -14,6 +14,9 @@ namespace HelloWorld {
             else if(age < 18 && > 0) {
                 Console.WriteLine("You are not eligible to vote")
             }
+            else{
+                Console.WriteLine("Invalid age")
+            }
 
         }
     }
