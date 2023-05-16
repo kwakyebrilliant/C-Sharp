@@ -8,7 +8,9 @@ namespace HelloWorld {
 
             int a = 5;
 
-            Console.WriteLine();
+            a+=2;
+
+            Console.WriteLine(a);
 
         }
     }
