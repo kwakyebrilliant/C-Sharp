@@ -6,14 +6,13 @@ namespace HelloWorld {
         public static void Main(string[] args){
             //Conditions
 
-            bool isRainning = false;
+            int age = 17;
 
-            if(isRainning == true){
-                Console.WriteLine("Take your umbrella");
+            if(age>=18){
+                Console.WriteLine("You are eligible to vote")
             }
-            else
-            {
-              Console.WriteLine("Don't take your umbrella");   
+            else if(age < 18 && > 0) {
+                Console.WriteLine("You are not eligible to vote")
             }
 
         }
