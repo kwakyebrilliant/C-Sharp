@@ -6,10 +6,9 @@ namespace HelloWorld {
         public static void Main(string[] args){
             //Relational operators
 
-            int a = 12;
-            int b = 8;
+            int a = 5;
 
-            Console.WriteLine(a==10 || b==11);
+            Console.WriteLine();
 
         }
     }
