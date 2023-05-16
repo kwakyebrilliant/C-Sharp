@@ -4,13 +4,10 @@ namespace HelloWorld {
     class Program
     {
         public static void Main(string[] args){
-            //Relational operators
+            //Conditions
 
-            int a = 5;
+            bool isRainning = false;
 
-            a = a / 2;
-
-            Console.WriteLine(a);
 
         }
     }
