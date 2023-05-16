@@ -11,6 +11,10 @@ namespace HelloWorld {
             if(isRainning == true){
                 Console.WriteLine("Take your umbrella");
             }
+            else
+            {
+              Console.WriteLine("Don't take your umbrella");   
+            }
 
         }
     }
