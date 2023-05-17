@@ -10,7 +10,9 @@ namespace HelloWorld {
             int i = 0;
 
             while(i<=12){
-                int f = n * i
+                int f = n * i;
+                Console.WriteLine(f);
+                i++;
             }
         }
     }
