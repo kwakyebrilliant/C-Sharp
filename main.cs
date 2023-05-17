@@ -6,11 +6,8 @@ namespace HelloWorld {
         public static void Main(string[] args){
             //Loops
 
+            int n = 2;
             int i = 0;
-            while(i<=100){
-                Console.WriteLine("Hello world!" + i);
-                i++;
-            }
         }
     }
 }
