@@ -4,7 +4,7 @@ namespace HelloWorld {
     class Program
     {
         public static void Main(string[] args){
-            //Loops
+            //Loops 
 
             int n = 2;
             int i = 0;
