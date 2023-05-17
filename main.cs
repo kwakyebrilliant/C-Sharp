@@ -6,8 +6,9 @@ namespace HelloWorld {
         public static void Main(string[] args){
             //Loops
 
-            for(int i = 0; i<100; i++){
-                Console.WriteLine("Hello, world!" + i);
+            int i = 0;
+            while(i<=100){
+                
             }
         }
     }
