@@ -8,7 +8,7 @@ namespace HelloWorld {
 
             int i = 0;
             while(i<=100){
-                Console.WriteLine("Hello world!");
+                Console.WriteLine("Hello world!" + i);
             }
         }
     }
