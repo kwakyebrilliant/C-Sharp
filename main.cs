@@ -7,7 +7,7 @@ namespace HelloWorld {
             //Loops
 
             for(int i = 0; i<100; i++){
-                Console.WriteLine("Hello, world!");
+                Console.WriteLine("Hello, world!" + i);
             }
         }
     }
