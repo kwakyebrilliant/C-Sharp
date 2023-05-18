@@ -7,7 +7,6 @@ namespace HelloWorld {
             //Arrays
 
             int[] val = {2, 4, 6, 1, 8};
-        
 
         }
     }
