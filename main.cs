@@ -7,6 +7,8 @@ namespace HelloWorld {
             //Arrays
 
             int[] val = {2, 1, 6, 3, 4};
+
+            int[] val2 = new int[5]
  
         }
     }
