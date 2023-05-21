@@ -6,7 +6,7 @@ namespace HelloWorld {
         public static void Main(string[] args){
             //Arrays
 
-            int[] val = {2, 4, 6, 1, 8};
+            int[] val = {2, 1, 6, 3, 4};
  
         }
     }
