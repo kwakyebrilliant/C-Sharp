@@ -10,7 +10,10 @@ namespace HelloWorld {
 
             Array.Sort(val);
 
-            
+            for(int i = 0; i<val.length; i++){
+                Console.WriteLine(val[i]);
+            }
+
         }
     }
 }
