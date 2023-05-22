@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 namespace HelloWorld {
-    class Program
+    public class Program
     {
 
         public static void Main(string[] args){
