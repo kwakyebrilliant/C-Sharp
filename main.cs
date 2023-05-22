@@ -8,7 +8,9 @@ namespace HelloWorld {
             public int age;
 
             public void GetName(){
-                
+                Console.Writeline("Name is " + name);
+                Console.Writeline("Age is " + Age);
+
             }
 
         }
