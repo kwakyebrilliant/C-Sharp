@@ -4,8 +4,8 @@ namespace HelloWorld {
     class Program
     {
 
-        public void setScore(){
-
+        public void Hello(){
+            Console.WriteLine("Hello, world!")
         }
 
         public static void Main(string[] args){
