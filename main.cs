@@ -4,10 +4,10 @@ namespace HelloWorld {
     class Program
     {
 
-        public static void setScore(){
+        public void setScore(){
 
         }
-        
+
         public static void Main(string[] args){
             //Functions
             
