@@ -8,7 +8,7 @@ namespace HelloWorld {
 
             int[] val = {2, 1, 6, 3, 4};
 
- 
+            Console.WriteLine(val[])
         }
     }
 }
