@@ -4,13 +4,13 @@ namespace HelloWorld {
     class Program
     {
 
-        public void Hello(){
+        public void _Hello(){
             Console.WriteLine("Hello, world!")
         }
 
         public static void Main(string[] args){
             //Functions
-            
+            _Hello();
 
         }
     }
