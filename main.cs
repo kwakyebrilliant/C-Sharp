@@ -17,7 +17,9 @@ namespace HelloWorld {
 
         public static void Main(string[] args){
             //classes and objects
-            Person P = new Person();    
+            Person P = new Person();
+            P.name = "Brilliant";
+            P.age = 25;    
 
         }
     }
