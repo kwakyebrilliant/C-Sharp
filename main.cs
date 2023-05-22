@@ -4,15 +4,8 @@ namespace HelloWorld {
     class Program
     {
         public static void Main(string[] args){
-            //Arrays
-
-            int[] val = {2, 1, 6, 3, 4};
-
-            Array.Sort(val);
-
-            for(int i = 0; i<val.length; i++){
-                Console.WriteLine(val[i]);
-            }
+            //Functions
+            
 
         }
     }
