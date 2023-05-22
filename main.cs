@@ -7,7 +7,7 @@ namespace HelloWorld {
             public string name;
             public int age;
 
-            public void GetName(){
+            public void GetDetails(){
                 Console.Writeline("Name is " + name);
                 Console.Writeline("Age is " + Age);
 
@@ -19,7 +19,9 @@ namespace HelloWorld {
             //classes and objects
             Person P = new Person();
             P.name = "Brilliant";
-            P.age = 25;    
+            P.age = 25;   
+
+            P.GetDetails(); 
 
         }
     }
