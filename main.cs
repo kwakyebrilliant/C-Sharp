@@ -8,7 +8,7 @@ namespace HelloWorld {
 
             int[] val = {2, 1, 6, 3, 4};
 
-           for(int i = 0; ){
+           for(int i = 0; i<val.length; i++){
 
            }
         }
