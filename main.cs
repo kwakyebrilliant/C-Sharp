@@ -5,6 +5,10 @@ using Vuforia;
 
 public class NewBehaviourScript : MonoBehaviour
 {
+
+    public GameObject Cube;
+
+    
     void Start()
     {
         
