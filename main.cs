@@ -20,4 +20,8 @@ public class ButtonBehaviour : MonoBehaviour
     void onButtonPressed(VirtualButtonBehaviour vb) {
         cube.SetActive(true);
     }
+
+    void onButtonReleased(VirtualButtonBehaviour vb) {
+        cube.SetActive(false);
+    }
 }
