@@ -15,6 +15,9 @@ public class ButtonBehaviour : MonoBehaviour
         cube.SetActive(false);
         
         vbutton = GetComponentInChildren<VirtualButtonBehaviour>();
+
+        vbutton.RegisterOnButtonPressed(onButtonPressed);
+        vbutton.RegisterOnButtonReleased(onButtonReleased);
     }
 
     void onButtonPressed(VirtualButtonBehaviour vb) {
