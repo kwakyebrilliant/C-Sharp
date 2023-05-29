@@ -6,13 +6,13 @@ using Vuforia;
 public class NewBehaviourScript : MonoBehaviour
 {
 
-    public GameObject Cube;
+     public GameObject cube;
 
     VirtualButtonBehaviour vbutton;
 
-
     void Start()
     {
+        cube.SetActive()
         
     }
 }
