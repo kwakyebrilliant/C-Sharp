@@ -16,4 +16,8 @@ public class ButtonBehaviour : MonoBehaviour
 
         vbutton = GetComponentInChildren<VirtualButtonBehaviour>();
     }
+
+    void onButtonPressed(VirtualButtonBehaviour vb) {
+        
+    }
 }
