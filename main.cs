@@ -13,7 +13,7 @@ public class ButtonBehaviour : MonoBehaviour
     void Start()
     {
         cube.SetActive(false);
-
+        
         vbutton = GetComponentInChildren<VirtualButtonBehaviour>();
     }
 
